@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.my-class {
+    background-color: rgb(233, 75, 122);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#div-id {
+    color: #4124c4;
+    font-size: 36px;
+}
+#div-id2 {
+    background-color: hsl(113, 53%, 65%);
+    font-size: 24px;
+    font-weight: bold;
+}
+#p-id {
+    font-size: 24px;
+}
